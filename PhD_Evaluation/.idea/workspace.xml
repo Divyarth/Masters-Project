@@ -76,13 +76,25 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/registration/urls.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="172">
               <caret line="14" column="59" selection-start-line="14" selection-start-column="59" selection-end-line="14" selection-end-column="59" />
               <folding>
                 <element signature="e#0#28#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/templates/registration/homeProfessor.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-797">
+              <caret line="46" column="31" lean-forward="true" selection-start-line="46" selection-start-column="31" selection-end-line="46" selection-end-column="31" />
+              <folding>
+                <element signature="n#style#0;n#img#0;n#span#0;n#div#0;n#div#0;n#nav#0;n#section#0;n#body#0;n#html#0;n#html#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -171,7 +183,6 @@
         <option value="$PROJECT_DIR$/registration/models.py" />
         <option value="$PROJECT_DIR$/../../model/questionnaire/models.py" />
         <option value="$PROJECT_DIR$/templates/registration/acc_active_email.html" />
-        <option value="$PROJECT_DIR$/templates/registration/homeProfessor.html" />
         <option value="$PROJECT_DIR$/templates/registration/index.html" />
         <option value="$PROJECT_DIR$/templates/registration/login.html" />
         <option value="$PROJECT_DIR$/templates/registration/password_reset_complete.html" />
@@ -187,6 +198,7 @@
         <option value="$PROJECT_DIR$/templates/registration/student_profile_edit.html" />
         <option value="$PROJECT_DIR$/templates/questionnaire/submissionView.html" />
         <option value="$PROJECT_DIR$/registration/urls.py" />
+        <option value="$PROJECT_DIR$/templates/registration/homeProfessor.html" />
       </list>
     </option>
   </component>
@@ -208,6 +220,17 @@
             <path>
               <item name="PhD_Evaluation" type="b2602c69:ProjectViewProjectNode" />
               <item name="PhD_Evaluation" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PhD_Evaluation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PhD_Evaluation" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PhD_Evaluation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PhD_Evaluation" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+              <item name="registration" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -443,19 +466,19 @@
       <workItem from="1555098868841" duration="17721000" />
       <workItem from="1555182893578" duration="12587000" />
       <workItem from="1555267029862" duration="615000" />
-      <workItem from="1555268430836" duration="262000" />
+      <workItem from="1555268430836" duration="1145000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="332307000" />
+    <option name="totallyTimeSpent" value="333190000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
     <layout>
       <window_info id="Structure" order="0" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="1" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="2" visible="true" weight="0.2124665" />
+      <window_info content_ui="combo" id="Project" order="2" visible="true" weight="0.2124665" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32931727" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -467,7 +490,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5020107" side_tool="true" weight="0.26238286" />
-      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49798927" visible="true" weight="0.3145917" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" sideWeight="0.49798927" visible="true" weight="0.3145917" />
       <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -721,13 +744,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/registration/homeProfessor.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-865">
-          <caret line="42" column="33" lean-forward="true" selection-start-line="42" selection-start-column="33" selection-end-line="42" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/templates/registration/homeStudent.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
@@ -828,6 +844,16 @@
           <caret line="14" column="59" selection-start-line="14" selection-start-column="59" selection-end-line="14" selection-end-column="59" />
           <folding>
             <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/registration/homeProfessor.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-797">
+          <caret line="46" column="31" lean-forward="true" selection-start-line="46" selection-start-column="31" selection-end-line="46" selection-end-column="31" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#span#0;n#div#0;n#div#0;n#nav#0;n#section#0;n#body#0;n#html#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
