@@ -1,5 +1,5 @@
 from django.apps import AppConfig
 
 
-class QuestionsheetConfig(AppConfig):
+class QuestionnaireConfig(AppConfig):
     name = 'questionnaire'
